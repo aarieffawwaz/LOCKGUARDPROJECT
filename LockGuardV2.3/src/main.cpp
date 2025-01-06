@@ -9,8 +9,8 @@
 #include <Firebase_ESP_Client.h>
 
 // Firebase credentials
-#define API_KEY "AIzaSyC8lbjO3zdKs3V86m3v62McqjXymdg1OlY"
-#define DATABASE_URL "https://lockguardv2-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY "APIKEY"
+#define DATABASE_URL "DATABASEURL"
 
 // WiFi credentials
 #define WIFI_SSID "OPPO A3 Pro 5G"
